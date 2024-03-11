@@ -1,0 +1,16 @@
+.info{
+    display:flex;
+    flex-direction: column;
+    width:25%;
+}
+.container{
+    display:flex;
+    flex-direction: row;
+}
+.map-column{
+    display:flex;
+    width: 75%;
+}.data-row{
+    display:flex;
+    flex-direction: row;
+}
